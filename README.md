@@ -2,7 +2,7 @@
 
 - [**> Calvin's Travel Guide**](./README.md)
   - [Europe](./places/Europe.md)
-    - UK
+    - [UK](./places/Europe_GB.md)
       - [London](./places/Europe_GB_London.md)
 
 ## Table of Contents
