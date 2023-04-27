@@ -21,6 +21,10 @@
 
 Hi friend, I've been fortunate enough to have traveled to a few places in the world. I've learned a few things along the way and I'd like to share them with you. I'll be adding more places as I go. Lmk if you see anything that's wrong or out of date. Keep in mind that these are the places I like to visit, you may have different tastes.
 
+## How to use this guide
+
+Read every node in the path to the place you're visiting. For example, if you're visiting London, you should read: [Calvin's Travel Guide](./README.md) + [Europe](./places/Europe.md) + [UK](./places/Europe_GB.md) + [London](./places/Europe_GB_London.md)
+
 ## Safety
 
 Simple: don't talk to anyone who approaches you on the street even if they appear nice. Walk like you have somewhere to be and they'll leave you alone.
