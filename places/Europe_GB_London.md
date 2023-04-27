@@ -38,9 +38,9 @@ Unlike Vancouver, the London Underground charges the same fare for both Oyster c
 
 ## My recommended route
 
-If you follow this route, you will see all of the major landmarks in London in a few hours. If you start in the morning you'll get the best light for photos. Feel free to skip any of these places if you're not interested.
+If you follow this route, you will see all of the major landmarks in London in a few hours. If you start in the morning you'll get the best lighting for photos along the way. Feel free to skip any of these places if you're not interested.
 
-It's a 2h36m walk, bring water. I recommend starting at 10-11am, that way you'll get to the Tower Bridge around noon for the sun to shine from above/the south on to the south side of the bridge, and you can have lunch at [Borough Market](#borough-market).
+It's a 2h36m walk, bring water. I recommend starting at 10-11am, that way you'll get to the Tower Bridge a bit after noon for the sun to shine from above/the east on to the east side of the bridge, and you can have lunch at [Borough Market](#borough-market).
 
 Because of Google Map's 10-waypoint limit, I had to split the route into two parts. Some of the locations are so close to each other I didn't bother adding them to the route. Some places are added so Google Maps would keep you on the interesting route instead of the shortest route.
 
