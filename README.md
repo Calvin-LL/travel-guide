@@ -12,7 +12,7 @@
 - [Money](#money)
   - [Cash](#cash)
   - [Credit Cards](#credit-cards)
-- [Cell Data](#cell-data)
+- [SIM Card](#sim-card)
 - [Power adapters](#power-adapters)
 - [Medicines](#medicines)
 - [Jet Lag](#jet-lag)
@@ -47,7 +47,7 @@ The good news is they usually have a deal for the first year where they waive th
 
 If you buy a lot of stuff on Amazon.ca, consider getting a Amazon.ca Rewards Mastercard, they give you back the 2.5% in Amazon.ca gift cards. (I have one of these and use it for all my Amazon.ca purchases.) Be aware that it doesn't support Google Pay at the time of writing.
 
-## Cell Data
+## SIM Card
 
 All new devices in Canada must be sold after December 1, 2017 are unlocked. You can put any sim card in them and they'll work. If you have an older device, you can ask your carrier to unlock it for you for free.
 
